@@ -54,7 +54,7 @@ npm run dev
 
 </details>
 
-## Responsive ✔️
+## Responsive (It may needs some powerful GPU on mobile) ✔️
 
 
 ## Follow me on
